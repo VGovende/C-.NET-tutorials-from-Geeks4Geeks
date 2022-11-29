@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/veren/C-.NET-tutorials-from-Microsft-/Hello World/Hello World.csproj",
+      "projectUniqueName": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/Hello World/Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "/home/veren/C-.NET-tutorials-from-Microsft-/Hello World/Hello World.csproj",
+      "projectPath": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/Hello World/Hello World.csproj",
       "packagesPath": "/home/veren/.nuget/packages/",
-      "outputPath": "/home/veren/C-.NET-tutorials-from-Microsft-/Hello World/obj/",
+      "outputPath": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/Hello World/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/veren/.nuget/NuGet/NuGet.Config"
