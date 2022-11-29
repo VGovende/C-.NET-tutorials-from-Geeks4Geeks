@@ -1,0 +1,15 @@
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/bin/Debug/net6.0/2_Unary_Operators
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/bin/Debug/net6.0/2_Unary_Operators.deps.json
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/bin/Debug/net6.0/2_Unary_Operators.runtimeconfig.json
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/bin/Debug/net6.0/2_Unary_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/bin/Debug/net6.0/ref/2_Unary_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/bin/Debug/net6.0/2_Unary_Operators.pdb
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.csproj.AssemblyReference.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.AssemblyInfoInputs.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.AssemblyInfo.cs
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.csproj.CoreCompileInputs.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/ref/2_Unary_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.pdb
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/1_Arithmetic_Operators/2_Unary_Operators/obj/Debug/net6.0/2_Unary_Operators.genruntimeconfig.cache

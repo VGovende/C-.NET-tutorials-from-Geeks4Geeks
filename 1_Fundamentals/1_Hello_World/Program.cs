@@ -1,4 +1,4 @@
-// System is a namespace which contains the commonly used types. It is specified with a using System directive.
+﻿// System is a namespace which contains the commonly used types. It is specified with a using System directive.
 using System;
 
 // Here namespace is the keyword which is used to define the namespace. "HelloWorldApp" is the user-defined name given to namespace

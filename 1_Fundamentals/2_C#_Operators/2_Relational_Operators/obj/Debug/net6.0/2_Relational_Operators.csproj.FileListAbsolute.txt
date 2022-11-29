@@ -1,0 +1,15 @@
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.csproj.AssemblyReference.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.AssemblyInfoInputs.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.AssemblyInfo.cs
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.csproj.CoreCompileInputs.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/bin/Debug/net6.0/2_Relational_Operators
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/bin/Debug/net6.0/2_Relational_Operators.deps.json
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/bin/Debug/net6.0/2_Relational_Operators.runtimeconfig.json
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/bin/Debug/net6.0/2_Relational_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/bin/Debug/net6.0/ref/2_Relational_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/bin/Debug/net6.0/2_Relational_Operators.pdb
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/ref/2_Relational_Operators.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.pdb
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/2_C#_Operators/2_Relational_Operators/obj/Debug/net6.0/2_Relational_Operators.genruntimeconfig.cache
