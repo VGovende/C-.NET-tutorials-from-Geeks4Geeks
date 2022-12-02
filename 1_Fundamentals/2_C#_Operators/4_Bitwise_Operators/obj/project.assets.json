@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/3_Logical_Operators/3_Logical_Operators.csproj",
-      "projectName": "3_Logical_Operators",
-      "projectPath": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/3_Logical_Operators/3_Logical_Operators.csproj",
+      "projectUniqueName": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/4_Bitwise_Operators/4_Bitwise_Operators.csproj",
+      "projectName": "4_Bitwise_Operators",
+      "projectPath": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/4_Bitwise_Operators/4_Bitwise_Operators.csproj",
       "packagesPath": "/home/veren/.nuget/packages/",
-      "outputPath": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/3_Logical_Operators/obj/",
+      "outputPath": "/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/4_Bitwise_Operators/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/veren/.nuget/NuGet/NuGet.Config"

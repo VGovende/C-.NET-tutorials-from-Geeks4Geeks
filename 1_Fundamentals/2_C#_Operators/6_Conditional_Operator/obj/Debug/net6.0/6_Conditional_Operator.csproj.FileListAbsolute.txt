@@ -1,0 +1,15 @@
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/bin/Debug/net6.0/6_Conditional_Operator
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/bin/Debug/net6.0/6_Conditional_Operator.deps.json
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/bin/Debug/net6.0/6_Conditional_Operator.runtimeconfig.json
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/bin/Debug/net6.0/6_Conditional_Operator.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/bin/Debug/net6.0/ref/6_Conditional_Operator.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/bin/Debug/net6.0/6_Conditional_Operator.pdb
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.csproj.AssemblyReference.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.GeneratedMSBuildEditorConfig.editorconfig
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.AssemblyInfoInputs.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.AssemblyInfo.cs
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.csproj.CoreCompileInputs.cache
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/ref/6_Conditional_Operator.dll
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.pdb
+/home/veren/C-.NET-tutorials-from-Geeks4Geeks/1_Fundamentals/2_C#_Operators/6_Conditional_Operator/obj/Debug/net6.0/6_Conditional_Operator.genruntimeconfig.cache
